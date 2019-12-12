@@ -1,0 +1,35 @@
+body
+{
+    width : 80%;
+    margin : 0 auto 0 auto;
+}
+
+div
+{
+    width: 50px;
+    height: 81px;
+    text-align: center;
+    margin: 5px;
+    border-radius: 10px;
+    background: black;
+    display: inline-block;
+
+}
+
+
+/*
+
+
+    font-family: 'Space Mono', monospace;
+
+    font-family: 'Krona One', sans-serif;
+
+
+.Copie-de-Yellow-photography-1-hex { color: #F2F5F3; }
+.Copie-de-Yellow-photography-2-hex { color: #070D0C; }
+.Copie-de-Yellow-photography-3-hex { color: #F1E204; }
+.Copie-de-Yellow-photography-4-hex { color: #BFBFBD; }
+.Copie-de-Yellow-photography-5-hex { color: #7B7975; }
+
+
+*/
